@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Bhargavi Devi 🙋🏻‍♀️
-- 🌱 I’m currently pursuing my Engineering course in Computer Science (specialization with AI and Machine Learning)
-<!---
-bhargavidevibathula/bhargavidevibathula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, welcome to my GitHub profile.
+- I’m Bhargavi Devi 🙋🏻‍♀️
+- 🌱 I’m currently pursuing my Computer Science engineering (specialization with AI and Machine Learning)
+- Sometimes I make aesthetic pictures and videos 
+![IMG_20230727_154302_281](https://github.com/bhargavidevibathula/bhargavidevibathula/assets/141624094/de9523ce-cc65-4821-b661-f9cc656732e7)
